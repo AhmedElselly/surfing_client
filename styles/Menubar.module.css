@@ -1,0 +1,48 @@
+.wrapper {
+  height: 80px;
+  width: 100%;
+  padding-block: 20px;
+  position: absolute;
+  background-color: transparent;
+  color: #fff;
+  border-bottom: 1px solid #e3e3e3;
+}
+
+.imageContainer {
+  width: 150px;
+}
+
+.image {
+  width: 100%;
+}
+
+.link {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.personIcon {
+  font-size: 26px;
+}
+
+.addProperty {
+  border: 1px solid #fff;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+
+.hamburger {
+  width: 30px;
+  height: 40px;
+}
+
+.hamburgerLine1 {
+  width: 100%;
+  background-color: #fff;
+  height: 1px;
+}
+.hamburgerLine2 {
+  width: 90%;
+  background-color: #fff;
+  height: 1px;
+}
